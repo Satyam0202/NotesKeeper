@@ -18,17 +18,6 @@ This app helps users efficiently manage their notes with real-time cloud synchro
 
 ---
 
-## 📱 Screenshots
-
-*Add your app screenshots here*
-
-```
-![Screenshot1](link_here)
-![Screenshot2](link_here)
-```
-
----
-
 ## 🛠️ Tech Stack
 
 * **Language:** Kotlin
@@ -91,7 +80,7 @@ Feel free to fork this repo and submit a pull request.
 ## 📧 Contact
 
 For any queries or suggestions:
-📩 [your-email@example.com](mailto:your-email@example.com)
+📩 [m4740600@gmail.com](mailto:m4740600@gmail.com)
 
 ---
 
